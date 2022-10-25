@@ -1,0 +1,11 @@
+ #board tr td {
+   border: 1px solid black;
+   background: silver;
+   height: 25px;
+   width: 25px;
+   text-align: center;
+ }
+
+ #board tr td.mine {
+   background: #FF0000;
+ }
